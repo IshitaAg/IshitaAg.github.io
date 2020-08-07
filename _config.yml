@@ -7,7 +7,7 @@ baseurl: ''
 email: f20180343@pilani.bits-pilani.ac.in
 cover: https://IshitaAg.github.io/img/og.png
 #logo: https://IshitaAg.github.io/img/emojis/technologist.png
-resume: https://IshitaAg.github.io/resume.pdf
+#resume: https://IshitaAg.github.io/resume.pdf
 social:
   - title: email
     url: mailto:e.agrawal03@gmail.com
