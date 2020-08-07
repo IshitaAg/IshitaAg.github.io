@@ -17,6 +17,8 @@ social:
     url: https://github.com/IshitaAg
   - title: linkedin
     url: https://www.linkedin.com/in/ishitaaggarwal98
+  - title: hackerrank
+    url: https://www.hackerrank.com/e_agrawal03
 
 # Build settings
 markdown: kramdown
